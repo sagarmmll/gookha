@@ -1,0 +1,5 @@
+{
+	"ip":"texture_pack.aternos.me",
+	"port": "33676",
+	"name": "londa"
+}
